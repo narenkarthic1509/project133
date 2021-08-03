@@ -1,0 +1,41 @@
+.heading{
+    width: 100%;
+    font-size: 25px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.back{
+    border: 3px solid blue;
+    background-color: black;
+    color: blue;
+    width: 90px;
+    font-size: 22px;
+}
+
+.stat{
+    font-size: 22px;
+    background-color: white;
+    color: orange;
+    border: 3px solid orange;
+    width: 280px;
+    border-radius: 10px ;
+}
+
+body{
+    background-position: center;
+    background-size: cover;
+}
+
+canvas{
+    border: 5px solid grey;
+    border-radius: 10px;
+}
+
+.howmany{
+    font-size: 20px;
+    background-color: white;
+    color: lightskyblue;
+    border: 3px solid lightskyblue;
+    border-radius: 10px;
+}
